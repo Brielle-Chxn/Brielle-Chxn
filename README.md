@@ -1,11 +1,100 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Parichat 
+# Hi, I'm Kimi 👋
 
+### Computer Science Student · Technology · Finance · Machine Learning
 
-I've been learning html and JavaScript for 2 years  
-* 🌍  I'm based in Chiang Mai
-*  ✉️  You can contact me at [67024818@up.ac.th](mailto:67024818@up.ac.th)
-*  🧠  I'm currently learning html
-*  📚Second-year Computer Science student   
+I'm a third-year Computer Science student interested in the intersection of **technology, finance, and business**.
 
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" alt="Swift" title="Swift" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" alt="Sketch" title="Sketch" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a> </p> 
+I enjoy exploring how software and data can be used to understand problems, improve decision-making, and build practical solutions.
 
+Currently, I'm strengthening my technical foundation through academic and personal projects while exploring **Machine Learning, Financial Technology, Data, and Business-oriented applications**.
+
+---
+
+## 👩🏻‍💻 About Me
+
+- 🎓 Third-year Computer Science student
+- 💰 Interested in **Finance & FinTech**
+- 🤖 Interested in **Machine Learning & Data**
+- 📊 Curious about **Business, Analytics & Decision Making**
+- 💻 Enjoy building practical software from real-world problems
+- 🚀 Currently developing projects and preparing for my future internship
+
+---
+
+## 🔎 Areas of Interest
+
+**Finance & FinTech**
+> Financial technology · Personal finance · Digital payments · Financial data
+
+**Machine Learning & Data**
+> Predictive modeling · Time series · Data analysis · Applied ML
+
+**Business & Technology**
+> Business applications · Data-driven decision making · Product ideas · Problem solving
+
+**Software Development**
+> Web applications · Databases · APIs · System design
+
+---
+
+## 🚀 Featured Projects
+
+### 💰 PayMeNoi
+
+A personal debt management web application created from a real-world problem: keeping track of money lent to friends and remembering payment deadlines.
+
+The project explores how a simple software solution can help organize personal financial information and make everyday money management easier.
+
+**Focus:** FinTech · Personal Finance · Web Development · Product Thinking
+
+---
+
+### 🌊 Flood Monitoring & Prediction System
+
+An academic project exploring how IoT and machine learning can be applied to environmental data for flood monitoring and prediction.
+
+The project involves water-level and rainfall data, time-series forecasting, and machine learning techniques.
+
+**Focus:** Machine Learning · LSTM · IoT · Data Processing
+
+---
+
+## 🛠️ Technologies
+
+**Languages**
+
+`Python` · `JavaScript` · `SQL` · `C++` · `Java` · `C#`
+
+**Areas**
+
+`Machine Learning` · `Data Analysis` · `Web Development` · `Database` · `IoT`
+
+**Tools**
+
+`Git` · `GitHub` · `VS Code` · `Docker` · `Jupyter Notebook`
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning & Predictive Modeling
+- Financial Technology & Financial Data
+- Data Analysis & Visualization
+- Database Design
+- Web Application Development
+- Software Engineering
+
+---
+
+## 🎯 Current Goal
+
+> Build practical projects, understand how technology creates value,  
+> and explore the intersection of **Computer Science, Finance, and Business**.
+
+As a third-year student, I'm currently focused on building a stronger portfolio and gaining the experience needed for my upcoming internship.
+
+---
+
+<p align="center">
+  <i>Building, learning, and exploring where technology meets finance and business.</i>
+</p>
